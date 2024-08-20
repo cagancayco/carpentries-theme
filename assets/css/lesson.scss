@@ -176,7 +176,8 @@ $codeblock-padding: 5px !default;
     background: linear-gradient(to bottom, $gradientcolor1, $gradientcolor2);
     border-color: $color;
     margin-top: 0px;
-    margin-left: -$codeblock-padding; // to move back to the left margin of the enclosing blockquote
+    margin-left: -$codeblock-padding; 
+    color: #ffffff // to move back to the left margin of the enclosing blockquote
   }
   h2:before {
     font-family: 'Glyphicons Halflings';
@@ -211,7 +212,6 @@ $codeblock-padding: 5px !default;
 .solution h3,
 .testimonial h3 {
 font-size: 18px;
-color: #ffffff;
 }
 
 .challenge    { background-color: #eec27520; }
