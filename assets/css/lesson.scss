@@ -31,13 +31,13 @@ $color-source:      #360084 !default;
 // blockquotes
 $color-callout:     #f4fd9c !default;
 $color-caution:     #cf000e !default;
-$color-challenge:   #53565A !default;
+$color-challenge:   #2E2D29 !default;
 $color-checklist:   #2E2D29 !default;
 $color-discussion:  #53565A !default;
 $color-keypoints:   #8C1515 !default;
 $color-objectives:  #8C1515 !default;
 $color-prereq:      #9cd6dc !default;
-$color-solution:    #2E2D29 !default;
+$color-solution:    #53565A !default;
 $color-testimonial: #fc8dc1 !default;
 
 //----------------------------------------
@@ -216,13 +216,13 @@ font-size: 18px;
 
 .challenge    { background-color: #eec27520; }
 .callout      { background-color: #f4fd9c20; }
-.challenge    { background-color: #53565A20; }
+.challenge    { background-color: #2E2D2920; }
 .checklist    { background-color: #2E2D2920; }
 .discussion   { background-color: #53565A20; }
 .keypoints    { background-color: #8C151520; }
 .objectives   { background-color: #8C151520; }
 .prereq       { background-color: #9cd6dc20; }
-.solution     { background-color: #2E2D2920; }
+.solution     { background-color: #53565A20; }
 .testimonial  { background-color: #fc8dc120; }
 
 blockquote p {
